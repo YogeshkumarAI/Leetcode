@@ -25,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
