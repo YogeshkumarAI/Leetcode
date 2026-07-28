@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
 | [0520-detect-capital](https://github.com/YogeshkumarAI/Leetcode/tree/master/0520-detect-capital) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
