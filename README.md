@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/YogeshkumarAI/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/YogeshkumarAI/Leetcode/tree/master/0476-number-complement) |
+| [1486-xor-operation-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Binary Search
 |  |
