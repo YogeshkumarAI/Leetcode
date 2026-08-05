@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/YogeshkumarAI/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/YogeshkumarAI/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/YogeshkumarAI/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YogeshkumarAI/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Enumeration
 |  |
