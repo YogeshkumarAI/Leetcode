@@ -15,23 +15,6 @@ public:
                 sum += i;
             }
         }
-
-
-        for(int i = 1; i <= n; i++){
-            if(i % 3 == 0 && i % 5 == 0 && i % 7 == 0){
-                dupsum += i;
-            }
-
-            else if(i % 3 == 0 && i % 5 == 0){
-                dupsum += i;
-            }
-        else if(i % 3 == 0 && i % 7 == 0){
-            dupsum += i;
-        }
-        else if(i % 5 == 0 && i % 7 ==0){
-            dupsum += i;
-        }
-        }
     return sum;
     }
 };
