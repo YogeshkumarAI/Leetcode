@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/YogeshkumarAI/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/YogeshkumarAI/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YogeshkumarAI/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
