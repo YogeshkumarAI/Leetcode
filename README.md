@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
