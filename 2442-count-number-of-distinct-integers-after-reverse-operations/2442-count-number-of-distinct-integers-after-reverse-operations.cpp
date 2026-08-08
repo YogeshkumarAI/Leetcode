@@ -15,11 +15,7 @@ public:
         }
 
 
-     unordered_set<int>st;
-     for(int x : nums){
-        st.insert(x);
-     }
-
-     return st.size();
+    set<int> st(nums.begin(), nums.end());
+    return st.size();
     }
 };
