@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YogeshkumarAI/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YogeshkumarAI/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/YogeshkumarAI/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/YogeshkumarAI/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/YogeshkumarAI/Leetcode/tree/master/2652-sum-multiples) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
