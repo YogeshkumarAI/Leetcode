@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/YogeshkumarAI/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/YogeshkumarAI/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2469-convert-the-temperature](https://github.com/YogeshkumarAI/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/YogeshkumarAI/Leetcode/tree/master/2652-sum-multiples) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1291-sequential-digits) |
+| [2443-sum-of-number-and-its-reverse](https://github.com/YogeshkumarAI/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
