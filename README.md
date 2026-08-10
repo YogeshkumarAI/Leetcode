@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YogeshkumarAI/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/YogeshkumarAI/Leetcode/tree/master/3895-count-digit-appearances) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/1025-divisor-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YogeshkumarAI/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/YogeshkumarAI/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
