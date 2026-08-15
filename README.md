@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
