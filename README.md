@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YogeshkumarAI/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YogeshkumarAI/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
