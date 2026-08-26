@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogeshkumarAI/Leetcode/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/YogeshkumarAI/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0912-sort-an-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/YogeshkumarAI/Leetcode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/YogeshkumarAI/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
