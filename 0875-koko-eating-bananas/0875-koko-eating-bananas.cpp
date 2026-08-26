@@ -11,19 +11,19 @@ class Solution {
         return total;
         }
 
-        int findmax(vector<int> &piles){
-        int maxi = INT_MIN;
-        int n = piles.size();
+        // int findmax(vector<int> &piles){
+        // int maxi = INT_MIN;
+        // int n = piles.size();
 
-        for(int i = 0; i < piles.size(); i++){
-            maxi = max(maxi, piles[i]);
-        }
-        return maxi;
-        }
+        // for(int i = 0; i < piles.size(); i++){
+        //     maxi = max(maxi, piles[i]);
+        // }
+        // return maxi;
+        // }
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1;
-        int high = findmax(piles);
+        int high = *max_element(piles.begin(), piles.end());
 
         while(low <= high){
             int mid = low + (high - low) / 2;
