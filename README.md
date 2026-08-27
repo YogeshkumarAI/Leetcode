@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YogeshkumarAI/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/YogeshkumarAI/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/YogeshkumarAI/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogeshkumarAI/Leetcode/tree/master/0704-binary-search) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/YogeshkumarAI/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 ## Prime Factorization
