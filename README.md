@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/YogeshkumarAI/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/YogeshkumarAI/Leetcode/tree/master/0520-detect-capital) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/YogeshkumarAI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0728-self-dividing-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0728-self-dividing-numbers) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/YogeshkumarAI/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
