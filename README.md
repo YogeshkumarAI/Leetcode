@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/YogeshkumarAI/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0867-transpose-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/YogeshkumarAI/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0877-stone-game) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YogeshkumarAI/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/YogeshkumarAI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/YogeshkumarAI/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0875-koko-eating-bananas](https://github.com/YogeshkumarAI/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YogeshkumarAI/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Stack
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
