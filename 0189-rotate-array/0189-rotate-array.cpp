@@ -2,9 +2,9 @@ class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         
-        int n = nums.size();
+        long long int n = nums.size();
         k = k % n;
-        vector<int>temp(n);
+        vector<long long int>temp(n);
         for(int i = 0; i < n; i++){
             temp[(i+k) % n] = nums[i];
         }
