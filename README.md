@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/YogeshkumarAI/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/YogeshkumarAI/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/0258-add-digits) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/YogeshkumarAI/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/YogeshkumarAI/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
