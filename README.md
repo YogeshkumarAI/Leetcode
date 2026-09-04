@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YogeshkumarAI/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YogeshkumarAI/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YogeshkumarAI/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YogeshkumarAI/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YogeshkumarAI/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YogeshkumarAI/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/YogeshkumarAI/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3492-maximum-containers-on-a-ship](https://github.com/YogeshkumarAI/Leetcode/tree/master/3492-maximum-containers-on-a-ship) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/YogeshkumarAI/Leetcode/tree/master/3516-find-closest-person) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/YogeshkumarAI/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/YogeshkumarAI/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Prime Factorization
