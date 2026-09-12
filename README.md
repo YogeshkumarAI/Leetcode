@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/YogeshkumarAI/Leetcode/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/YogeshkumarAI/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YogeshkumarAI/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YogeshkumarAI/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/YogeshkumarAI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YogeshkumarAI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/YogeshkumarAI/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1929-concatenation-of-array) |
