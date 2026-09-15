@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YogeshkumarAI/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YogeshkumarAI/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/YogeshkumarAI/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/YogeshkumarAI/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YogeshkumarAI/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YogeshkumarAI/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/YogeshkumarAI/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/YogeshkumarAI/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3701-compute-alternating-sum](https://github.com/YogeshkumarAI/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YogeshkumarAI/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/YogeshkumarAI/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YogeshkumarAI/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/YogeshkumarAI/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/YogeshkumarAI/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/YogeshkumarAI/Leetcode/tree/master/3663-find-the-least-frequent-digit) |
 ## Combinatorics
 |  |
 | ------- |
