@@ -1,7 +1,7 @@
 class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
-        int n = nums.size();
+                int n = nums.size();
         int ans = 0;
         int sum = 0;
         int closest_diff = INT_MAX;
