@@ -1,7 +1,8 @@
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
-        int ans = -1;
+        
+        // int mini = -1;
         for(int i = 0; i < nums.size(); i++){
             int temp = nums[i];
             int sum = 0;
@@ -12,10 +13,10 @@ public:
             }
 
             if(sum == i){
-                ans = i;
-                break;
+                return i;
             }
         }
-        return ans;
+
+        return -1;
     }
 };
