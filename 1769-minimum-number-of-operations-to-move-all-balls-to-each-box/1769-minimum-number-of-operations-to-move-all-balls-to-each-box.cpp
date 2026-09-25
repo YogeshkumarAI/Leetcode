@@ -1,10 +1,7 @@
 class Solution {
 public:
     vector<int> minOperations(string boxes) {
-        // j = ballIndex
-        // i = targetindex;
-        // abs(ballindex - targetindex);
-        int n = boxes.size();
+                int n = boxes.size();
         vector<int>answer;
         for(int i = 0; i < n; i++){
             int moves = 0;
