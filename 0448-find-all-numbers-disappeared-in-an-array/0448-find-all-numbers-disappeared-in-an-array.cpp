@@ -3,16 +3,15 @@ public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
         
         int n = nums.size();
-        map<int, int> mp;
+        unordered_set<int> st;
 
         for(auto x : nums){
-            mp[x]++;
+            st.insert(x);
         }
 
         vector<int> ans;
-        // int maxi = *max_element(nums.begin(), nums.end());
         for(int i = 1; i <= n; i++){
-            if(mp.find(i) == mp.end()) {
+            if(st.find(i) == st.end()){
                 ans.push_back(i);
             }
         }
