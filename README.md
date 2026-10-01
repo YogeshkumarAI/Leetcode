@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YogeshkumarAI/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/YogeshkumarAI/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/YogeshkumarAI/Leetcode/tree/master/0125-valid-palindrome) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YogeshkumarAI/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/YogeshkumarAI/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
@@ -508,5 +510,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
