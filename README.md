@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2032-two-out-of-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YogeshkumarAI/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/YogeshkumarAI/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1929-concatenation-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2032-two-out-of-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YogeshkumarAI/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YogeshkumarAI/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/YogeshkumarAI/Leetcode/tree/master/0645-set-mismatch) |
 | [1486-xor-operation-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/YogeshkumarAI/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2032-two-out-of-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
