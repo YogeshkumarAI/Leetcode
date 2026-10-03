@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/YogeshkumarAI/Leetcode/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/YogeshkumarAI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/YogeshkumarAI/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/YogeshkumarAI/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/YogeshkumarAI/Leetcode/tree/master/0645-set-mismatch) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/YogeshkumarAI/Leetcode/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
+| [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/YogeshkumarAI/Leetcode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
