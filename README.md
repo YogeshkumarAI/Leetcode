@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/YogeshkumarAI/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/YogeshkumarAI/Leetcode/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0678-valid-parenthesis-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/YogeshkumarAI/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/YogeshkumarAI/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/YogeshkumarAI/Leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/YogeshkumarAI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YogeshkumarAI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/YogeshkumarAI/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YogeshkumarAI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/YogeshkumarAI/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshkumarAI/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/1025-divisor-game) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/YogeshkumarAI/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/YogeshkumarAI/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
