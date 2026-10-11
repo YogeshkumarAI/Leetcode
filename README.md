@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YogeshkumarAI/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3115-maximum-prime-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/YogeshkumarAI/Leetcode/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/YogeshkumarAI/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
