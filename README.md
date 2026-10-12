@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-two-out-of-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/YogeshkumarAI/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YogeshkumarAI/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YogeshkumarAI/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3238-find-the-number-of-winning-players](https://github.com/YogeshkumarAI/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/YogeshkumarAI/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/YogeshkumarAI/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YogeshkumarAI/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YogeshkumarAI/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3115-maximum-prime-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/YogeshkumarAI/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YogeshkumarAI/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/YogeshkumarAI/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1835-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/YogeshkumarAI/Leetcode/tree/master/1835-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2032-two-out-of-three](https://github.com/YogeshkumarAI/Leetcode/tree/master/2032-two-out-of-three) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/YogeshkumarAI/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/YogeshkumarAI/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
