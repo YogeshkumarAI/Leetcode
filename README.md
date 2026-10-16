@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/YogeshkumarAI/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/YogeshkumarAI/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/YogeshkumarAI/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0055-jump-game) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/YogeshkumarAI/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/YogeshkumarAI/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/YogeshkumarAI/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/YogeshkumarAI/Leetcode/tree/master/0202-happy-number) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/YogeshkumarAI/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/YogeshkumarAI/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/YogeshkumarAI/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
