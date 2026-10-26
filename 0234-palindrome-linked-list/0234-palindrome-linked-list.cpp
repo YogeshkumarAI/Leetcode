@@ -37,7 +37,7 @@ public:
 
         prev->next = NULL;
 
-        // reversing a other half;
+        // reversing a second half;
         ListNode *front = NULL;
         prev = NULL;
         while(curr){
