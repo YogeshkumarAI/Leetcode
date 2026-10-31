@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         // first we have to calculte the size of linked list;
-        int count = 0;
+        int count = 0; // numbers of skip node;
         ListNode *temp = head;
         while(temp != NULL){
             count++;
@@ -22,8 +22,8 @@ public:
         // now we get the size of linked list;
         // now we have to make the counter till delete node;
         count -= n;
-        
-        if(count == 0){
+        // edge case; 
+        if(count == 0){ // for deleting first node;
             temp = head;
             head = head->next;
             delete temp;
