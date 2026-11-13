@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/YogeshkumarAI/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YogeshkumarAI/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YogeshkumarAI/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/YogeshkumarAI/Leetcode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/YogeshkumarAI/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/YogeshkumarAI/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/YogeshkumarAI/Leetcode/tree/master/0682-baseball-game) |
@@ -442,11 +443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YogeshkumarAI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YogeshkumarAI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/YogeshkumarAI/Leetcode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/YogeshkumarAI/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/YogeshkumarAI/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/YogeshkumarAI/Leetcode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/YogeshkumarAI/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## String Matching
 |  |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/YogeshkumarAI/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/YogeshkumarAI/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/YogeshkumarAI/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/YogeshkumarAI/Leetcode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/YogeshkumarAI/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Quickselect
 |  |
